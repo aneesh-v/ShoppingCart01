@@ -11,7 +11,7 @@ const Container = styled.div`
 	font-weight: 500;
 `;
 const Announcement = () => {
-	return <Container>Its the deal...</Container>;
+	return <Container>Its the deal... aneeshv28@gmail.com</Container>;
 };
 
 export default Announcement;
